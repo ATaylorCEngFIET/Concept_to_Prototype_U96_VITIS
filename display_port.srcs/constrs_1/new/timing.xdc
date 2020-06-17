@@ -1,0 +1,2 @@
+set_false_path -from [get_clocks clk_out2_design_1_clk_wiz_1_0] -to [get_clocks clk_out1_design_1_clk_wiz_0_0]
+set_false_path -from [get_clocks clk_out1_design_1_clk_wiz_0_0] -to [get_clocks clk_out2_design_1_clk_wiz_1_0]
